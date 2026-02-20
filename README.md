@@ -41,6 +41,6 @@ The Gemini Pro model interprets user queries and generates optimized SQL stateme
 - Pandas
 - python-dotenv
 
----
 
-## 📂 Project Structure
+
+
